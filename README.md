@@ -1,6 +1,6 @@
 # Logger Uptimer 🚀
 
-![alt text](image.png)
+<img width="1385" height="735" alt="image" src="https://github.com/user-attachments/assets/3e534915-3da0-4c16-8033-7610aa33dfbd" />
 
 Logger Uptimer is a simple Node.js application that pings a specified URL at regular intervals to check its availability. It's designed to restart itself after reaching a certain number of pings.
 
